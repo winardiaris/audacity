@@ -10,7 +10,7 @@
 	Audacity® — вільна, проста у користуванні програма для редагування та запису багатодоріжкового звуку, яка може працювати у Windows, Mac OS X, GNU/Linux та інших операційних системах. Інтерфейс програми перекладено багатьма мовами.
     </p>
     <p xml:lang="fr">
-	Audacity® — est un enregistreur et éditeur audio, libre, gratuit et facile à utiliser pour Windows, Mac OS X, GNU/Linux et d'autres système d'exploitation. L'interface est traduite dans plusieurs langues.
+	Audacity® est un enregistreur et éditeur audio, libre, gratuit et facile à utiliser pour Windows, Mac OS X, GNU/Linux et d'autres système d'exploitation. L'interface est traduite dans plusieurs langues.
     </p>
     <p xml:lang="de">
 	Audacity® ist ein kostenloses, benutzerfreundliches, Multikanal-Audiobearbeitungs- und Aufnahmeprogramm für Windows, Mac OS X, GNU/Linux und andere Betriebssysteme. Die Benutzeroberfläche ist in viele Sprachen übersetzt.
@@ -34,12 +34,12 @@
 	<li xml:lang="de">Liveaufnahmen erstellen</li>
 	<li>Convert tapes and records into digital recordings or CDs</li>
 	<li xml:lang="uk">Перетворення стрічкових та інших записів на цифрові записи та записи на компакт-дисках</li>
-	<li xml:lang="fr">Convertir des cassettes ou autre enregistrement en enregistrement digital ou CDs</li>
+	<li xml:lang="fr">Convertir des cassettes ou des disques en enregistrement numérique ou CDs</li>
 	<li xml:lang="de">Kassetten, Schallplatten und andere Aufnahmen digitalisieren</li>
 	<li>Edit WAV, AIFF, FLAC, MP2, MP3 or Ogg Vorbis sound files</li>
 	<li xml:lang="uk">Редагування звукових файлів WAV, AIFF, FLAC, MP2, MP3 та Ogg</li>
-	<li xml:lang="fr">Éditer des fichiers son aux formats : WAV, AIFF, FLAC, MP2, MP3 et OGG</li>
-	<li xml:lang="de">WAV, AIFF, FLAC, MP2, MP3 oder Ogg Voribs Audiodateien bearbeiten</li>
+	<li xml:lang="fr">Éditer des fichiers son aux formats : WAV, AIFF, FLAC, MP2, MP3 et OGG Vorbis</li>
+	<li xml:lang="de">WAV, AIFF, FLAC, MP2, MP3 oder Ogg Vorbis Audiodateien bearbeiten</li>
 	<li>Cut, copy, splice or mix sounds together</li>
 	<li xml:lang="uk">Вирізання, копіювання, поділ та мікшування звукових даних</li>
 	<li xml:lang="fr">Copier, coller, joindre ou mixer des sons ensemble</li>
