@@ -9,25 +9,37 @@
     <p xml:lang="uk">
 	Audacity® — вільна, проста у користуванні програма для редагування та запису багатодоріжкового звуку, яка може працювати у Windows, Mac OS X, GNU/Linux та інших операційних системах. Інтерфейс програми перекладено багатьма мовами.
     </p>
+    <p xml:lang="fr">
+	Audacity® — est un enregistreur et éditeur audio, libre, gratuit et facile à utiliser pour Windows, Mac OS X, GNU/Linux et d'autres système d'exploitation. L'interface est traduite dans plusieurs langues.
+    </p>
     <p>
 	You can use Audacity to:
     </p>
     <p xml:lang="uk">
 	Audacity можна скористатися для виконання таких завдань:
     </p>
+    <p xml:lang="fr">
+	Vous pouvez utiliser Audacity pour :
+    </p>
 	<ul>
 	<li>Record live audio</li>
 	<li xml:lang="uk">Інтерактивний запис звуку</li>
+	<li xml:lang="fr">Enregistrer de l'audio en direct</li>
 	<li>Convert tapes and records into digital recordings or CDs</li>
 	<li xml:lang="uk">Перетворення стрічкових та інших записів на цифрові записи та записи на компакт-дисках</li>
+	<li xml:lang="fr">Convertir des cassettes ou autre enregistrement en enregistrement digital ou CDs</li>
 	<li>Edit WAV, AIFF, FLAC, MP2, MP3 or Ogg Vorbis sound files</li>
 	<li xml:lang="uk">Редагування звукових файлів WAV, AIFF, FLAC, MP2, MP3 та Ogg</li>
+	<li xml:lang="fr">Éditer des fichiers son aux formats : WAV, AIFF, FLAC, MP2, MP3 et OGG/li>
 	<li>Cut, copy, splice or mix sounds together</li>
 	<li xml:lang="uk">Вирізання, копіювання, поділ та мікшування звукових даних</li>
+	<li xml:lang="fr">Copier, coller, joindre ou mixer des sons ensemble</li>
 	<li>Change the speed or pitch of a recording</li>
 	<li xml:lang="uk">Зміна швидкості або тональності записів</li>
+	<li xml:lang="fr">Changer la vitesse ou la tonalité d'un enregistrement</li>
 	<li>Apply a wide range of other effects to audio recordings</li>
 	<li xml:lang="uk">Застосування широкого діапазону інших ефектів до звукових записів</li>
+	<li xml:lang="fr">Appliquer un large choix d'autres effets aux enregistrements audio</li>
 	</ul>
   </description>
   <url type="homepage">http://audacity.sourceforge.net/</url>
