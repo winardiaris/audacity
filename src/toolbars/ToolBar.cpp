@@ -526,6 +526,13 @@ void ToolBar::SetDocked( ToolDock *dock, bool pushed )
       Layout();
       Fit();
    }
+   // JKC: New code that might fix Bug1206
+   else if( pushed )
+   {
+      Layout();
+      Fit();
+   }
+
 }
 
 //
